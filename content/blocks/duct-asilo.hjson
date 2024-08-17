@@ -4,7 +4,8 @@ description: Transports items.
 category: distribution
 alwaysUnlocked: true
 research: core-asilo
-speed: 10
+speed: 5
+size : 2
 health: 45
 requirements: [
   asilotioe/1
