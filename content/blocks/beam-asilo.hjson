@@ -2,7 +2,7 @@
   "type": "BeamNode",
   "name": "Beam Asilo",
   "description": "A more resistant version of the beam node with a slightly range",
-  "health": 1080,
+  "health": 108,
   "size": 2,
   "consumesPower": true,
   "range": 30,
