@@ -4,4 +4,5 @@
     "author": "Ravi",
     "description": "Added Asilo Contents",
     "version": "1.0"
+    "minGameVersion": 136
 }
