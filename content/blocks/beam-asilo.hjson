@@ -1,6 +1,6 @@
 {
   "type": "BeamNode",
-  "name": "Bery Beam Tower",
+  "name": "Beam Asilo",
   "description": "A more resistant version of the beam node with a slightly range",
   "health": 1080,
   "size": 2,
