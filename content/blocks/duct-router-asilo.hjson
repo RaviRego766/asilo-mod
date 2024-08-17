@@ -1,7 +1,7 @@
 type: Router
 name: Duct Router Asilo
 description: Made from Asilo. Distributes input items from ducts to three directions equally. 
-size: 1
+size: 2
 speed: 6
 health: 110
 itemCapacity: 3
