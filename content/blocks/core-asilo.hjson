@@ -5,7 +5,7 @@ requirements: [
   sand/160
 ]
 isFirstTier: true
-size: 3
+size: 2
 squareSprite: false
 alwaysUnlocked: true
 unitType: asilo
