@@ -1,0 +1,21 @@
+type: CoreBlock
+name: Core: Asilo
+description: Core of the base. Armored and stores a medium amount of items.
+requirements: [
+  sand/160
+]
+isFirstTier: true
+size: 3
+squareSprite: false
+alwaysUnlocked: true
+unitType: asilo
+health: 1450
+itemCapacity: 4500
+unitCapModifier: 8
+category: effect
+research: {
+  planet: asilo-p
+  root: true
+  name: Asilo
+  requiresUnlock: false
+}
