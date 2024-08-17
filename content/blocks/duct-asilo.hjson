@@ -1,0 +1,11 @@
+type: Duct
+name: Duct Asilo
+description: Transports items.
+category: distribution
+alwaysUnlocked: true
+research: core-asilo
+speed: 10
+health: 45
+requirements: [
+  asilotioe/1
+]
