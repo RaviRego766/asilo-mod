@@ -1,0 +1,34 @@
+type: GenericCrafter
+name: Sand Compactor
+description: Condenses regular Sand back into Hardened Sand to be reused. Requires pressure.
+size: 3
+squareSprite: false
+craftTime: 90
+consumes: {
+  items: [
+    sand/10
+    asilotioe/5
+  ]
+}
+outputItem: asilozsot/4
+category: crafting
+researchCostMultiplier: 0.5
+research: asilotioe-crafter
+requirements: [
+ asilotioe/10
+]
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawDefault
+    }
+    {
+      type: DrawRegion
+      suffix: -top
+    }
+  ]
+}
+ambientSound: hum
+ambientSoundVolume: 0.05
+itemCapacity: 20
