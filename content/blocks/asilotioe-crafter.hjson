@@ -1,7 +1,7 @@
 type: GenericCrafter
 name: Asilotioe Crafter
 description: Condenses regular Sand back into Hardened Sand to be reused. Requires pressure.
-size: 3
+size: 2
 squareSprite: false
 craftTime: 90
 consumes: {
