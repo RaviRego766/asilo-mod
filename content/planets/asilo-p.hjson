@@ -90,7 +90,7 @@ accessible: true
 
 updateLighting: true
 
-sectorSeed: 6
+sectorSeed: 1
 
 bloom: false
 
